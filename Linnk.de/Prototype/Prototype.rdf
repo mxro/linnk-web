@@ -1,0 +1,38 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:linnk="http://www.linnk.de/basic.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <linnk:Document rdf:about="http://www.linnk.de/Prototype/Prototype.rdf"
+     dcterms:title="Prototype"
+     rdfs:label="Prototype">
+    <sioc:has_creator rdf:resource="http://www.linnk.de/semantic/linnkuser.rdf#linnkuser"
+       rdf:type="http://rdfs.org/sioc/ns#User"/>
+    <sioc:has_container rdf:resource="http://www.linnk.de/index.rdf"
+       rdfs:label="Parent"
+       rdf:type="http://www.linnk.de/basic.rdf#Document"/>
+    <sioc:links_to rdf:resource="http://www.linnk.de/Prototype/Screenshots/Screenshots.rdf"
+       rdfs:label="Screenshots"
+       rdf:type="http://www.linnk.de/basic.rdf#Document"/>
+    <dcterms:created>Thu Dec 09 13:32:13 NZDT 2010</dcterms:created>
+    <rdfs:seeAlso>http://www.linnk.de/Prototype/Prototype.xml</rdfs:seeAlso>
+    <sioc:links_to>
+      <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Tutorials__amp_.rdf">
+        <rdfs:label>Tutorials &amp;amp; Documentation</rdfs:label>
+      </linnk:Document>
+    </sioc:links_to>
+    <sioc:links_to>
+      <rdf:Description rdf:about="http://www.mxro.de/contact/contact.php">
+        <rdfs:label>Contact Form</rdfs:label>
+      </rdf:Description>
+    </sioc:links_to>
+    <sioc:links_to>
+      <linnk:Document rdf:about="http://www.linnk.de/Prototype/Supported_Stand/Supported_Stand.rdf">
+        <rdfs:label>Supported Standards</rdfs:label>
+      </linnk:Document>
+    </sioc:links_to>
+  </linnk:Document>
+</rdf:RDF>

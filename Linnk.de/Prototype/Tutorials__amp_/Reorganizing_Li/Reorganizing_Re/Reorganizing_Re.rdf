@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:linnk="http://www.linnk.de/basic.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Reorganizing_Li/Reorganizing_Re/Reorganizing_Re.rdf">
+    <sioc:has_container rdf:resource="http://www.linnk.de/Prototype/Tutorials__amp_/Reorganizing_Li/Reorganizing_Li.rdf"
+       rdfs:label="Parent"
+       rdf:type="http://www.linnk.de/basic.rdf#Document"/>
+    <rdfs:seeAlso>http://www.linnk.de/Prototype/Tutorials__amp_/Reorganizing_Li/Reorganizing_Re/Reorganizing_Re.xml</rdfs:seeAlso>
+    <rdfs:label>Reorganizing Relationships Between Documents</rdfs:label>
+    <sioc:has_creator rdf:resource="http://www.linnk.de/semantic/linnkuser.rdf#linnkuser"
+       rdf:type="http://rdfs.org/sioc/ns#User"/>
+    <dcterms:created>Tue Jan 18 16:32:06 NZDT 2011</dcterms:created>
+    <dcterms:title>Reorganizing Relationships Between Documents</dcterms:title>
+  </linnk:Document>
+</rdf:RDF>

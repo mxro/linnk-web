@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:linnk="http://www.linnk.de/basic.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Editing_a_docum/Adding_Hyperlin/Adding_Hyperlin.rdf">
+    <sioc:has_container rdf:resource="http://www.linnk.de/Prototype/Tutorials__amp_/Editing_a_docum/Editing_a_docum.rdf"
+       rdfs:label="Parent"
+       rdf:type="http://www.linnk.de/basic.rdf#Document"/>
+    <rdfs:seeAlso>http://www.linnk.de/Prototype/Tutorials__amp_/Editing_a_docum/Adding_Hyperlin/Adding_Hyperlin.xml</rdfs:seeAlso>
+    <rdfs:label>Adding Hyperlinks</rdfs:label>
+    <sioc:has_creator rdf:resource="http://www.linnk.de/semantic/linnkuser.rdf#linnkuser"
+       rdf:type="http://rdfs.org/sioc/ns#User"/>
+    <dcterms:created>Fri Dec 17 19:37:29 NZDT 2010</dcterms:created>
+    <dcterms:title>Adding Hyperlinks</dcterms:title>
+  </linnk:Document>
+</rdf:RDF>

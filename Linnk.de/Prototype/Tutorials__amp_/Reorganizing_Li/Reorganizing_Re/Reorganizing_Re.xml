@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet href='Reorganizing_Re.xsl' type='text/xsl'?>
+<linnkcontent version="1.0"><v03.linnkdocument><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:32:06.554 NZDT</created><item class="v01.titleitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:32:06.554 NZDT</created><id>title</id><completeID>title</completeID><title>Reorganizing Relationships Between Documents</title></item><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:34:53.362 NZDT</created><id>TextItem</id><completeID>TextItem</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    When using the operation Linnk!, a relationship between two documents is 
+    created: the newly created document will be 'owned' by the document, in 
+    which the Linnk! operation has been triggered. More precisely, the item, 
+    which was selected for the Linnk! operation, will 'own' the newly created 
+    document.&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><div xmlns="http://www.w3.org/1999/xhtml">When using the operation Linnk!, a relationship between two documents is created: the newly created document will be 'owned' by the document, in which the Linnk! operation has been triggered. More precisely, the item, which was selected for the Linnk! operation, will 'own' the newly created document.<br/></div></textXML></item><item class="v04.owneritem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:32:06.557 NZDT</created><id>linkedby</id><completeID>linkedby</completeID><backlink>../Reorganizing_Li.xml</backlink></item><item class="v01.ext.jpegpictureitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:36:16.237 NZDT</created><id>ImageItem</id><completeID>ImageItem</completeID><imageData><name/><owner class="de.mxro.filesystem.v01.IncludedRootFolder"><name/><fileSystem class="v01.includedfilesystem"/><uri><u serialization="custom"><java.net.URI><default><string>file://root/</string></default></java.net.URI></u></uri></owner><fileSystem class="v01.includedfilesystem" reference="../owner/fileSystem"/><uri><u serialization="custom"><java.net.URI><default><string>/image</string></default></java.net.URI></u></uri><data><buf>iVBORw0KGgoAAAANSUhEUgAAAWAAAAAwCAIAAACg+jdYAAAGFElEQVR42u2bW08bRxTH9wPlIZIl
+Xngw5sVcl0pNLRBGwkCKWkQJ0AcwqZqiKHHtKqpoK5AcaIlKUBJMlcQK4IqLMZUJNLUhRTGkBaQ2
+D0FKacgHoLu+zl5mdr02JVn+R39ZYr2XMzNnfnPOrOGO1YzjOOEztHEQ2sxpbuPgy6++O4bBYGfG
+OAACBoMBEDAYDICAwWAABAwGAyBgMBgAAYPBAAgYDAZAwGAwAOL4eGX7DQRBJhYAAUEQAAFBEAAB
+QRAAAUEQAAFBEAABQRAAAUEQAAFBEAABQEAQAFFUQDw7XI7G3G53Y2PjdY93Lrqz+px68vj4raVw
+WCbh4P7+PoYNgkwIiO9/nKqrq+N5vq+vz263t7e3r8cTtJOXlsJKx4SDe3t7YAQEmQoQi5sH3q9H
+ysvLP7n06frm9swviZnQfE1NjcCIvAARi8eF418MDmLkIMgkgAhv/XPVN2S1Wq97byzE/rp5+0Fr
+a+vQ0JDf77dYLAxAHB4eCp8ypQ5i5KAzMT85zuyASLyemArabLbPrwwuP315N7hUXV3TdvHD+fmF
+gYEBoeLIK4PIFhpnKkp8Do5zBE70QsOPOMXWvYVtASDyA0R05+inR/MVFRX9l68sxl+sPEk4nc7W
+i+2LT/bvTgfLyspGRidOKIOIhDznhGZwJZ2hIwP9krw8fe1kf8npBhwt4kknAYh3FxCqAZZCg8kB
+Mbe229LS8v4Fx+zjXeFPr9crpBJLK2v3F2IXPnB0d3dHNv4+oQxC7PTzLv48d64/fhLjZ7IMQmhj
+4R1luHuL+2gTAIJLmvkBcc3jq6ysDEdja3++efDo59LS0pGb47ORjebmZgEQkdgu49pCMohIIsBz
+HO8/SmLCM5k4kkWP+Jky6bfKxVm8A2mZgczdIbOGRxLxTpFHHj7zhRD3Eb8r85fLp/og8QTZHeIE
+40T3aD7LMgjCJbHt+hurnKVkq7PHC3E1Oyg5y3zFAATZIloHKh0mh4nWFtUekzWKnLp5Da4yNhhj
+ofSck5ppARHdelFTy3921be89Wp25feGhoaOjo7fnm5f6u6pqqoanwqxLy8IEOLIiWOWKjRSs4Uc
+vNQRZUDoLDHINSr3rOTdsrGSjp5MHFDLhAzLcmURcUnKN5rPpJPiOQQ4eOaF2gtathVJ99KPK8RV
+4trMV6wJn+lnCY9ogCMdlnU1rS2qPaYJCD2Dqxob7LFgZBCmfYuxuv1qfXOnurra+83ow+Wtjz7u
+sNvt0WjU7XYLOcWde9OPn7/WBIThEiM7SOlxJXpfNlGVKYYmIGTrduoRyvVHdhr1QcRVybVUWKPE
+q8gZRfM5+wjaZoTOxtKApUrAAl01HKnkZGM7TIw+vS1q/ujIIDQGlxYb7LFg7EGYFhDDw8PBYLCt
+ra22tra+vl5IGcbGxrq6umw22+Sdqfi+tmeGMwj5YiUNrCIAIpdYshJUnYAgvhIuF89PrcbJy4nF
+hw0IyuQxAgjFzJF3hTFX0yuwRqWjSk92laF0OAcIeltUe6wIgKDEhgFAmPx3EE1NTT09PYGZlWvX
+PQMDl0dHR10uF1/33tT0/V//+FePZ4YzCHlRJy0+iwQI1aXMICDSNxTOzwaZIyB+UsqTUwSEYVfV
+RkejxEjvWail6283INTbBUBI9MNEwGq19vb2fuu/5fHeEOoLp9MZmFvV75kxQKhW2mS1WaQSQ5K4
+FgoIcSaU8I4SIqxdvEMbav9ziVGIq5pP0awp3p0SQ71dAIRECxsvb997KOQRFotFIIXP5wuvJ/Ly
+LBxeZkj/AqiymZcnIJShmdxwyh0RblJIiZFNpMkdLI6IMz2FPXWTMk9AsDf2jLtKZBl6fsEhH4L0
+GxD64ix5s2Nwk1LWRel6IR9A0GKDPRaMvAP/7n0CPxlQzAFyq9IAICQvriSRJ6mNDQNCuQ/P2JZn
+bInRXnPmCwj2q0GDrsrecerbsJTUI/RZJNvg6HQYfM0pv5UjkG8GQYsNzbFQBhgAAUEQ/lkLgiAA
+AoIgAAKAgCAAAoCAIAiAgCAIgIAgCICAIAiAgCAIgIAgCICAIAiAgCAIgIAgCICAwWBnwP4DJaNj
+Rrov56sAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAA=</buf><count>1613</count></data></imageData></item><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:40:10.376 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    If this item is cut &amp;amp; pasted into another document, the item will still 
+    'own' the associated document.&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><div xmlns="http://www.w3.org/1999/xhtml">If this item is cut &amp; pasted into another document, the item will still 'own' the associated document.<br/></div></textXML></item><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:42.256 NZDT</created><id>TextItem2</id><completeID>TextItem2</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    However, if this item is copied &amp;amp; pasted into another document, the 
+    created copy will only hold a reference to the associated document. Items 
+    'owning' a document and items holding a reference to a document can be 
+    distinguished by a slightly different paper clip symbol.&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><div xmlns="http://www.w3.org/1999/xhtml">However, if this item is copied &amp; pasted into another document, the created copy will only hold a reference to the associated document. Items 'owning' a document and items holding a reference to a document can be distinguished by a slightly different paper clip symbol.<br/></div></textXML></item><item class="v01.ext.jpegpictureitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:47:58.461 NZDT</created><id>ImageItem1</id><completeID>ImageItem1</completeID><imageData><name/><owner class="de.mxro.filesystem.v01.IncludedRootFolder"><name/><fileSystem class="v01.includedfilesystem"/><uri><u serialization="custom"><java.net.URI><default><string>file://root/</string></default></java.net.URI></u></uri></owner><fileSystem class="v01.includedfilesystem" reference="../owner/fileSystem"/><uri><u serialization="custom"><java.net.URI><default><string>/image</string></default></java.net.URI></u></uri><data><buf>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
+YIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</buf><count>2738</count></data></imageData></item><versions><currentVersion>48</currentVersion><change class="v04.newitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:06.554 NZDT</date><item class="v01.titleitem" reference="../../../item"/></change><change class="v04.newitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:06.554 NZDT</date><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:32:06.554 NZDT</created><id>TextItem</id><completeID>TextItem</completeID><text>&lt;html&gt;&lt;body&gt;enter text here...&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</text><textXML/></item></change><change class="v04.newitem"><type>SKIP</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:06.557 NZDT</date><item class="v04.owneritem" reference="../../../item[3]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:06.566 NZDT</date><changedItem class="v02.textitem" reference="../../change[2]/item"/><oldItem class="v02.textitem" reference="../../change[2]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:25.395 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:32:25.395 NZDT</created><id>TextItem</id><completeID>TextItem</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    enter text here...&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>enter text here...<br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[2]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:34:53.362 NZDT</date><changedItem class="v02.textitem" reference="../../../item[2]"/><oldItem class="v02.textitem" reference="../../change[5]/changedItem"/></change><change class="v04.insertitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:34:53.372 NZDT</date><relativeItemID>TextItem</relativeItemID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:34:53.371 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;&lt;body&gt;enter text here ...&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><body>enter text here ...<br/></body></html></textXML></item><position>AFTER</position></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:35:37.319 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:35:37.319 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;
+    An item which 'owns' a document&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>An item which 'owns' a document<br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[7]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:35:37.329 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:35:37.329 NZDT</created><id>TextItem1</id><completeID>DocumentProxy/TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    An item which 'owns' a document&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>An item which 'owns' a document<br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[8]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:35:37.360 NZDT</date><changedItem class="v04.documentproxy"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:35:37.360 NZDT</created><id>DocumentProxy</id><completeID>DocumentProxy</completeID><item class="v02.textitem" reference="../../../change[9]/changedItem"/><link>An_item_which__/An_item_which__.xml</link><expanded>false</expanded></changedItem><oldItem class="v02.textitem" reference="../../change[9]/changedItem"/></change><change class="v04.removeitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:36:05.544 NZDT</date><item class="v04.documentproxy" reference="../../change[10]/changedItem"/><itemBefore>TextItem</itemBefore></change><change class="v04.newitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:36:07.359 NZDT</date><item class="v04.documentproxy"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:35:37.360 NZDT</created><id>DocumentProxy</id><completeID>DocumentProxy</completeID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:35:37.329 NZDT</created><id>TextItem1</id><completeID>DocumentProxy/TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    An item which 'owns' a document&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML/></item><link>An_item_which__/An_item_which__.xml</link><expanded>false</expanded></item></change><change class="v04.removeitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:36:11.327 NZDT</date><item class="v04.documentproxy" reference="../../change[12]/item"/><itemBefore>linkedby</itemBefore></change><change class="v04.newitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:36:16.244 NZDT</date><item class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:36:19.949 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:36:19.950 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.insertitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:36:19.952 NZDT</date><relativeItemID>ImageItem</relativeItemID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:36:19.950 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;&lt;body&gt;enter text here ...&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><body>enter text here ...<br/></body></html></textXML></item><position>AFTER</position></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:37:21.545 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:37:21.545 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;
+    If this item is cut &amp;amp; pasted into another document, &lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>If this item is cut &amp; pasted into another document, <br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[17]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:38:00.544 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:38:00.544 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    If this item is cut &amp;amp; pasted into another document, the item will still 
+    'own' &lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>If this item is cut &amp; pasted into another document, the item will still 'own' <br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[18]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:40:10.376 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:40:10.376 NZDT</date><changedItem class="v02.textitem" reference="../../../item[5]"/><oldItem class="v02.textitem" reference="../../change[19]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:40:10.386 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.insertitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:40:10.387 NZDT</date><relativeItemID>TextItem1</relativeItemID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:40:10.386 NZDT</created><id>TextItem2</id><completeID>TextItem2</completeID><text>&lt;html&gt;&lt;body&gt;enter text here ...&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><body>enter text here ...<br/></body></html></textXML></item><position>AFTER</position></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:40:10.601 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:40:10.601 NZDT</created><id>TextItem2</id><completeID>TextItem2</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    enter text here ...&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>enter text here ...<br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[23]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:20.440 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:20.440 NZDT</created><id>TextItem2</id><completeID>TextItem2</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;
+    However, if this item is copied &amp;amp; pasted into another document, the 
+    created copy will only hold a reference to the associated document. Items 
+    'owning' a document and items holding a reference to a document can be 
+    distinguished by a slightly different &lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>However, if this item is copied &amp; pasted into another document, the created copy will only hold a reference to the associated document. Items 'owning' a document and items holding a reference to a document can be distinguished by a slightly different <br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[24]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:42.255 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:42.256 NZDT</date><changedItem class="v02.textitem" reference="../../../item[6]"/><oldItem class="v02.textitem" reference="../../change[25]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:42.266 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.insertitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:42.268 NZDT</date><relativeItemID>TextItem2</relativeItemID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:42.266 NZDT</created><id>TextItem3</id><completeID>TextItem3</completeID><text>&lt;html&gt;&lt;body&gt;enter text here ...&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><body>enter text here ...<br/></body></html></textXML></item><position>AFTER</position></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:42.486 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:42.486 NZDT</created><id>TextItem3</id><completeID>TextItem3</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    enter text here ...&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>enter text here ...<br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[29]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:53.990 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:53.991 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:53.991 NZDT</created><id>TextItem3</id><completeID>TextItem3</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;
+    This item holds a reference to a document&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>This item holds a reference to a document<br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[30]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:54.1 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:54.1 NZDT</created><id>TextItem3</id><completeID>DocumentProxy/TextItem3</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    This item holds a reference to a document&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>This item holds a reference to a document<br/></body></html></textXML></changedItem><oldItem class="v02.textitem" reference="../../change[32]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:54.28 NZDT</date><changedItem class="v04.documentproxy"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:54.28 NZDT</created><id>DocumentProxy</id><completeID>DocumentProxy</completeID><item class="v02.textitem" reference="../../../change[33]/changedItem"/><link>This_item_holds/This_item_holds.xml</link><expanded>false</expanded></changedItem><oldItem class="v02.textitem" reference="../../change[33]/changedItem"/></change><change class="v04.newitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:42:59.695 NZDT</date><item class="v04.linnkproxy"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:57.117 NZDT</created><id>LinnkProxy</id><completeID>LinnkProxy</completeID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:42:54.1 NZDT</created><id>TextItem3</id><completeID>LinnkProxy/TextItem3</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    This item holds a reference to a document&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML/></item><link>This_item_holds/This_item_holds.xml</link><expanded>false</expanded></item></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:43:06.706 NZDT</date><changedItem class="v04.documentproxy"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:43:06.706 NZDT</created><id>DocumentProxy</id><completeID>DocumentProxy</completeID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:43:06.706 NZDT</created><id>TextItem3</id><completeID>DocumentProxy/TextItem3</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    This item 'owns' a document&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><html xmlns="http://www.w3.org/1999/xhtml"><head/><body>This item 'owns' a document<br/></body></html></textXML></item><link>This_item_holds/This_item_holds.xml</link><expanded>false</expanded></changedItem><oldItem class="v04.documentproxy" reference="../../change[34]/changedItem"/></change><change class="v04.newitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:47:58.472 NZDT</date><item class="v01.ext.jpegpictureitem" reference="../../../item[7]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:02.261 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:02.262 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[7]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[7]"/></change><change class="v04.removeitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:02.265 NZDT</date><item class="v04.documentproxy" reference="../../change[36]/changedItem"/><itemBefore>TextItem2</itemBefore></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:04.485 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:04.485 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[7]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[7]"/></change><change class="v04.removeitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:04.488 NZDT</date><item class="v04.linnkproxy" reference="../../change[35]/item"/><itemBefore>TextItem2</itemBefore></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:48.309 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:48.309 NZDT</date><changedItem class="v01.ext.jpegpictureitem" reference="../../../item[7]"/><oldItem class="v01.ext.jpegpictureitem" reference="../../../item[7]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:48.319 NZDT</date><changedItem class="v02.textitem" reference="../../../item[2]"/><oldItem class="v02.textitem" reference="../../../item[2]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:48.319 NZDT</date><changedItem class="v02.textitem" reference="../../../item[5]"/><oldItem class="v02.textitem" reference="../../../item[5]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:48:48.319 NZDT</date><changedItem class="v02.textitem" reference="../../../item[6]"/><oldItem class="v02.textitem" reference="../../../item[6]"/></change></versions><uri>http://www.linnk.de/Prototype/Tutorials__amp_/Reorganizing_Li/Reorganizing_Re/Reorganizing_Re.xml</uri><name>Reorganizing Relationships Between Documents</name><filename>Reorganizing_Re.xml</filename></v03.linnkdocument></linnkcontent>

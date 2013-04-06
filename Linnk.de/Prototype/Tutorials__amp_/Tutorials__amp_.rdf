@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:linnk="http://www.linnk.de/basic.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Tutorials__amp_.rdf">
+    <sioc:links_to>
+      <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Editing_a_docum/Selecting_Items/Selecting_Items.rdf">
+        <rdfs:label>Selecting Items &amp;amp; Navigating Documents</rdfs:label>
+      </linnk:Document>
+    </sioc:links_to>
+    <sioc:links_to>
+      <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Creating_a_data/Creating_a_data.rdf">
+        <rdfs:label>Creating a database</rdfs:label>
+      </linnk:Document>
+    </sioc:links_to>
+    <dcterms:created>Fri Dec 17 18:19:48 NZDT 2010</dcterms:created>
+    <sioc:links_to>
+      <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Editing_a_docum/Editing_a_docum.rdf">
+        <rdfs:label>Editing a document</rdfs:label>
+      </linnk:Document>
+    </sioc:links_to>
+    <sioc:has_creator rdf:resource="http://www.linnk.de/semantic/linnkuser.rdf#linnkuser"
+       rdf:type="http://rdfs.org/sioc/ns#User"/>
+    <rdfs:seeAlso>http://www.linnk.de/Prototype/Tutorials__amp_/Tutorials__amp_.xml</rdfs:seeAlso>
+    <dcterms:title>Tutorials &amp;amp; Documentation</dcterms:title>
+    <sioc:links_to>
+      <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Reorganizing_Li/Reorganizing_Li.rdf">
+        <rdfs:label>Reorganizing Linnk Databases &amp;amp; Editing Documents</rdfs:label>
+      </linnk:Document>
+    </sioc:links_to>
+    <sioc:links_to>
+      <linnk:Document rdf:about="http://www.linnk.de/Prototype/Tutorials__amp_/Browsing_Linnk_/Browsing_Linnk_.rdf">
+        <rdfs:label>Browsing Linnk Databases (with everything but Linnk)</rdfs:label>
+      </linnk:Document>
+    </sioc:links_to>
+    <sioc:has_container rdf:resource="http://www.linnk.de/Prototype/Prototype.rdf"
+       rdfs:label="Parent"
+       rdf:type="http://www.linnk.de/basic.rdf#Document"/>
+    <rdfs:label>Tutorials &amp;amp; Documentation</rdfs:label>
+  </linnk:Document>
+</rdf:RDF>

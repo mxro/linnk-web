@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:linnk="http://www.linnk.de/basic.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <linnk:Document rdf:about="http://www.linnk.de/Publications/Publications.rdf"
+     rdfs:label="Publications"
+     dcterms:title="Publications">
+    <sioc:links_to>
+      <rdf:Description rdf:about="http://www.citeulike.org/user/mxro/author/Rohde%3aM">
+        <rdfs:label>CiteULike (external link)</rdfs:label>
+      </rdf:Description>
+    </sioc:links_to>
+    <sioc:has_container rdf:resource="http://www.linnk.de/index.rdf"
+       rdfs:label="Parent"
+       rdf:type="http://www.linnk.de/basic.rdf#Document"/>
+    <rdfs:seeAlso>http://www.linnk.de/Publications/Publications.xml</rdfs:seeAlso>
+    <sioc:has_creator rdf:resource="http://www.linnk.de/semantic/linnkuser.rdf#linnkuser"
+       rdf:type="http://rdfs.org/sioc/ns#User"/>
+    <dcterms:created>Thu Dec 09 13:09:58 NZDT 2010</dcterms:created>
+  </linnk:Document>
+</rdf:RDF>

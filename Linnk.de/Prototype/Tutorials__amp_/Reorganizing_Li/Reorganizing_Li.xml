@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet href='Reorganizing_Li.xsl' type='text/xsl'?>
+<linnkcontent version="1.0"><v03.linnkdocument><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:18:43.136 NZDT</created><item class="v01.titleitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:18:43.136 NZDT</created><id>title</id><completeID>title</completeID><title>Reorganizing Linnk Databases</title></item><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:20:31.876 NZDT</created><id>TextItem</id><completeID>TextItem</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Eventually all databases change and Linnk offers a number of mechanisms to 
+    reorganize documents and their contents. Basically, Linnk supports two 
+    interrelated reorganization operations: editing documents and reorganizing 
+    the relationships between documents.&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><div xmlns="http://www.w3.org/1999/xhtml">Eventually all databases change and Linnk offers a number of mechanisms to reorganize documents and their contents. Basically, Linnk supports two interrelated reorganization operations: editing documents and reorganizing the relationships between documents.<br/></div></textXML></item><item class="v04.documentproxy"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:21:10.23 NZDT</created><id>DocumentProxy</id><completeID>DocumentProxy</completeID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:20:36.787 NZDT</created><id>TextItem1</id><completeID>DocumentProxy/TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Editing Documents&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><div xmlns="http://www.w3.org/1999/xhtml">Editing Documents<br/></div></textXML></item><link>Editing_Documen/Editing_Documen.xml</link><expanded>false</expanded></item><item class="v04.documentproxy"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:32:06.567 NZDT</created><id>DocumentProxy1</id><completeID>DocumentProxy1</completeID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:32:06.541 NZDT</created><id>TextItem1</id><completeID>DocumentProxy1/TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Reorganizing Relationships Between Documents&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML><div xmlns="http://www.w3.org/1999/xhtml">Reorganizing Relationships Between Documents<br/></div></textXML></item><link>Reorganizing_Re/Reorganizing_Re.xml</link><expanded>false</expanded></item><item class="v04.owneritem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:18:43.139 NZDT</created><id>linkedby</id><completeID>linkedby</completeID><backlink>../Tutorials__amp_.xml</backlink></item><versions><currentVersion>26</currentVersion><change class="v04.newitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:18:43.136 NZDT</date><item class="v01.titleitem" reference="../../../item"/></change><change class="v04.newitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:18:43.136 NZDT</date><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:18:43.136 NZDT</created><id>TextItem</id><completeID>TextItem</completeID><text>&lt;html&gt;&lt;body&gt;enter text here...&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</text><textXML/></item></change><change class="v04.newitem"><type>SKIP</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:18:43.139 NZDT</date><item class="v04.owneritem" reference="../../../item[5]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:18:43.147 NZDT</date><changedItem class="v02.textitem" reference="../../change[2]/item"/><oldItem class="v02.textitem" reference="../../change[2]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:20:18.11 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:20:18.11 NZDT</created><id>TextItem</id><completeID>TextItem</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;
+    Eventually all databases change and Linnk offers a number of mechanisms to 
+    reorganize documents and their contents. Basically, Linnk supports two 
+    interrelated reorganization operations: editing documents and reorganizing 
+    the r&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML/></changedItem><oldItem class="v02.textitem" reference="../../change[2]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:20:19.69 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:20:19.69 NZDT</created><id>TextItem</id><completeID>TextItem</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Eventually all databases change and Linnk offers a number of mechanisms to 
+    reorganize documents and their contents. Basically, Linnk supports two 
+    interrelated reorganization operations: editing documents and reorganizing 
+    the r&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML/></changedItem><oldItem class="v02.textitem" reference="../../change[5]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:20:31.876 NZDT</date><changedItem class="v02.textitem" reference="../../../item[2]"/><oldItem class="v02.textitem" reference="../../change[6]/changedItem"/></change><change class="v04.insertitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:20:31.887 NZDT</date><relativeItemID>TextItem</relativeItemID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:20:31.886 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;&lt;body&gt;enter text here ...&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</text><textXML/></item><position>AFTER</position></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:20:36.755 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:20:36.755 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;
+    Editing Documents&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML/></changedItem><oldItem class="v02.textitem" reference="../../change[8]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:20:36.787 NZDT</date><changedItem class="v02.textitem" reference="../../../item[3]/item"/><oldItem class="v02.textitem" reference="../../change[9]/changedItem"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:20:36.803 NZDT</date><changedItem class="v02.textitem" reference="../../../item[2]"/><oldItem class="v02.textitem" reference="../../../item[2]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:20:36.803 NZDT</date><changedItem class="v02.textitem" reference="../../../item[3]/item"/><oldItem class="v02.textitem" reference="../../../item[3]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:21:10.23 NZDT</date><changedItem class="v04.documentproxy" reference="../../../item[3]"/><oldItem class="v02.textitem" reference="../../../item[3]/item"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:21:11.369 NZDT</date><changedItem class="v02.textitem" reference="../../../item[2]"/><oldItem class="v02.textitem" reference="../../../item[2]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:21:11.369 NZDT</date><changedItem class="v04.documentproxy" reference="../../../item[3]"/><oldItem class="v04.documentproxy" reference="../../../item[3]"/></change><change class="v04.insertitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:31:50.134 NZDT</date><relativeItemID>DocumentProxy</relativeItemID><item class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:31:50.133 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;&lt;body&gt;enter text here ...&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</text><textXML/></item><position>AFTER</position></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:31:50.347 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:31:50.347 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    enter text here ...&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML/></changedItem><oldItem class="v02.textitem" reference="../../change[16]/item"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:06.531 NZDT</date><changedItem class="v02.textitem"><creator><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></creator><created>2011-01-18 16:32:06.531 NZDT</created><id>TextItem1</id><completeID>TextItem1</completeID><text>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;
+    Reorganizing Relationships Between Documents&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</text><textXML/></changedItem><oldItem class="v02.textitem" reference="../../change[17]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:06.541 NZDT</date><changedItem class="v02.textitem" reference="../../../item[4]/item"/><oldItem class="v02.textitem" reference="../../change[18]/changedItem"/></change><change class="v04.modifyitem"><type>REVERSIBLE</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:06.567 NZDT</date><changedItem class="v04.documentproxy" reference="../../../item[4]"/><oldItem class="v02.textitem" reference="../../../item[4]/item"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:07.285 NZDT</date><changedItem class="v02.textitem" reference="../../../item[2]"/><oldItem class="v02.textitem" reference="../../../item[2]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:07.285 NZDT</date><changedItem class="v04.documentproxy" reference="../../../item[3]"/><oldItem class="v04.documentproxy" reference="../../../item[3]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 16:32:07.285 NZDT</date><changedItem class="v04.documentproxy" reference="../../../item[4]"/><oldItem class="v04.documentproxy" reference="../../../item[4]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 19:06:08.205 NZDT</date><changedItem class="v02.textitem" reference="../../../item[2]"/><oldItem class="v02.textitem" reference="../../../item[2]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 19:06:08.205 NZDT</date><changedItem class="v04.documentproxy" reference="../../../item[3]"/><oldItem class="v04.documentproxy" reference="../../../item[3]"/></change><change class="v04.modifyitem"><type>IMPLICIT</type><user><uri>http://www.linnk.de/semantic/linnkuser.rdf#linnkuser</uri></user><date>2011-01-18 19:06:08.205 NZDT</date><changedItem class="v04.documentproxy" reference="../../../item[4]"/><oldItem class="v04.documentproxy" reference="../../../item[4]"/></change></versions><uri>http://www.linnk.de/Prototype/Tutorials__amp_/Reorganizing_Li/Reorganizing_Li.xml</uri><name>Reorganizing Linnk Databases</name><filename>Reorganizing_Li.xml</filename></v03.linnkdocument></linnkcontent>
